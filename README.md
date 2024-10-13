@@ -3,6 +3,6 @@
 
 🔭 Check out my pinned repositories for some of my latest work or look at my [portfolio projects](https://faudel.dev/projets), and feel free to reach out for collaboration opportunities. I thrive in environments that foster feedback culture and continuous growth.
 
-🌱 Currently learning: Go (GoLang) and deepening my knowledge in Computer Science.
+🌱 Currently learning: Go (GoLang) and deepening my knowledge in Computer Science and Web Design.
 
 📫 How to reach me: [Contact](https://faudel.dev/contact)
